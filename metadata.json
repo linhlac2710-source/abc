@@ -1,0 +1,6 @@
+{
+  "name": "Smart Classroom",
+  "description": "Modern university smart classroom management platform with responsive dashboards for students, lecturers, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
